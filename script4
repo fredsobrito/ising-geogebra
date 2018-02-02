@@ -1,0 +1,2 @@
+##Lista da energia
+SetValue(energia, t, E)

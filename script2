@@ -1,0 +1,5 @@
+##Altera seleciona spin e altera aleatóriamente
+
+st=RandomBetween[11,110],
+SetValue(sp, Element(S, st)),
+SetValue(S, st, -sp)
